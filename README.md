@@ -1,0 +1,1 @@
+criar um carrinho de compras, baseado no carrinho de compras da shoppe, aonde o carrinho armazene itens e calcule automaticamente o preço total
